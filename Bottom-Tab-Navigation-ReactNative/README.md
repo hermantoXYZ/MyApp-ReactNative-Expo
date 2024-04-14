@@ -96,4 +96,4 @@ File App.js
 ```
 
 ## License
->> HermantoZYZ. Check <b>LICENSE.</b>
+>> HermantoXYZ. Check <b>LICENSE.</b>
