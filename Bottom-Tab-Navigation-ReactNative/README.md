@@ -94,3 +94,6 @@ File App.js
       </Tab.Navigator>
     </NavigationContainer>
 ```
+
+## License
+>> HermantoZYZ. Check <b>LICENSE.</b>
